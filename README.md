@@ -12,6 +12,7 @@ task: detect small crack in tile 타일 이미지 내 미세 Crack 검출 모델
 team_id = "1350"
 team_name = "머닝러신머닝"
 task_no = "153"
+최종 3위 기록 F1 score 0.948729
 
 
 

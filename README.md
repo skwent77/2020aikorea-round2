@@ -1,6 +1,6 @@
 ### [2020년도 AI 문제해결 경진대회] 본선
 
-![https://user-images.githubusercontent.com/46518769/102458252-51ad3300-4087-11eb-982c-002e5c2248db.png]
+!(https://user-images.githubusercontent.com/46518769/102458252-51ad3300-4087-11eb-982c-002e5c2248db.png)
 
 ## (대회내용) 산업·사회를 혁신시킬 수 있는 AI 문제를 발굴하고 참가자들이 AI 알고리즘을 활용해 해결하는 문제해결 경진대회
 
@@ -15,7 +15,7 @@ task_no = "153"
 
 최종 3위 기록 F1 score 0.948729
 
-![https://github.com/harrywinks/2020aikorea-round2/issues/2#issue-774637051]
+!(https://github.com/harrywinks/2020aikorea-round2/issues/2#issue-774637051)
 
 ### <데이터 전처리 및 데이터 Augmentation>
 

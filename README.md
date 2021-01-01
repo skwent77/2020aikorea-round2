@@ -15,7 +15,7 @@ task_no = "153"
 
 최종 3위 기록 F1 score 0.948729
 
-<img src="https://github.com/harrywinks/2020aikorea-round2/issues/2#issue-774637051" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/46518769/103121347-1af69e80-46bf-11eb-8a3a-4b112bb1df2a.png" width="70%"></img>
 
 ### <데이터 전처리 및 데이터 Augmentation>
 
